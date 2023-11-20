@@ -1,2 +1,2 @@
-# cv
-My current CV
+# Resume
+My current Resume
